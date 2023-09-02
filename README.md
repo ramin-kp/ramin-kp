@@ -19,7 +19,7 @@ const [aboutMe, steAboutMe]=useState([{
     city:"Tabriz",
     job:"Foront-ent Developer",
     Target: "Senior programmer",
-    Level: "Learning and progressing"
+    Level: "Learning and progressing",
 }])
 ```
 

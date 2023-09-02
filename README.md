@@ -38,14 +38,9 @@ I am a front-end developer. I am learning and gaining experience in front-end pr
 ### Social
 
 <p align="left">
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/instagram.svg" width="32" height="32" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/github.svg" width="32" height="32" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/linkedin.svg" width="32" height="32" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/behance.svg" width="32" height="32" /></a>
+    <a href="https://www.instagram.com/ramin._kp/" target="_blank" rel="noreferrer"><img src="https://github.com/ramin-kp/ramin-kp/blob/main/icons8-instagram-96.png?raw=true" width="32" height="32" /></a>
+    <a href="https://github.com/ramin-kp" target="_blank" rel="noreferrer"><img src="https://github.com/ramin-kp/ramin-kp/blob/main/icons8-github-96.png?raw=true" width="32" height="32" /></a>
+    <a href="https://t.me/ramin_kp81" target="_blank" rel="noreferrer"><img src="https://github.com/ramin-kp/ramin-kp/blob/main/icons8-telegram-96.png?raw=true" width="32" height="32" /></a>
+    <a href="mailto:ramin.kp81@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/ramin-kp/ramin-kp/blob/main/icons8-gmail-96.png?raw=true" width="32" height="32" /></a>
 </p>
 
-### Support Me
-
-<a href="">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
-</a>

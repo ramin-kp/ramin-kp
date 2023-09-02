@@ -15,7 +15,7 @@ I am a front-end developer. I am learning and gaining experience in front-end pr
 ```javascript
 const [aboutMe, steAboutMe]= useState([{
 
-    fr-name: "Ramin",
+    name: "Ramin",
     las-name:"Karimpour",
     city:"Tabriz",
     job:"Front-end Developer",

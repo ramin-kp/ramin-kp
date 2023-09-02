@@ -13,7 +13,7 @@ I am a front-end developer. I am learning and gaining experience in front-end pr
 - 🤝  I'm open to collaborating on React based projects
 
 ```javascript
-const [aboutMe, steAboutMe]=useState([{
+const [aboutMe, steAboutMe]= useState([{
     naem: "Ramin",
     las-name:"Karimpour",
     city:"Tabriz",

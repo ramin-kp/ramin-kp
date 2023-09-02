@@ -17,7 +17,7 @@ const [aboutMe, steAboutMe]= useState([{
     naem: "Ramin",
     las-name:"Karimpour",
     city:"Tabriz",
-    job:"Foront-ent Developer",
+    job:"Foront-end Developer",
     Target: "Senior programmer",
     Level: "Learning and progressing",
 }])

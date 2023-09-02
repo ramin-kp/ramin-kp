@@ -14,10 +14,10 @@ I am a front-end developer. I am learning and gaining experience in front-end pr
 
 ```javascript
 const [aboutMe, steAboutMe]= useState([{
-    naem: "Ramin",
+    fir-naem: "Ramin",
     las-name:"Karimpour",
     city:"Tabriz",
-    job:"Foront-end Developer",
+    job:"Front-end Developer",
     Target: "Senior programmer",
     Level: "Learning and progressing",
 }])

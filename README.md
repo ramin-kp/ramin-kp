@@ -12,6 +12,16 @@ I am a front-end developer. I am learning and gaining experience in front-end pr
 - 🧠  I'm learning NextJS & CSS frameworks
 - 🤝  I'm open to collaborating on React based projects
 
+```javascript
+const [aboutMe, steAboutMe]=useState([{
+    naem: "ramin",
+    las-name:"karimpour",
+    city:"tabriz",
+    job:"foront-ent Developer",
+    "Target": "Senior programmer"
+}])
+```
+
 
 ### Skills
 

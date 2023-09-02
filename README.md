@@ -8,7 +8,7 @@ Front-End Developer
 I am a front-end developer. I am learning and gaining experience in front-end programming. I am interested in programming and the world of zero and one. I like teamwork and site development.👨‍💻
 
 - 🌍  I'm based in Tabriz
-- ✉️  You can contact me at [ramin.kp81@gmail.com](ramin.kp81@gmail.com)
+- ✉️  You can contact me at [ramin.kp81@gmail.com](mailto:ramin.kp81@gmail.com)
 - 🧠  I'm learning NextJS & CSS frameworks
 - 🤝  I'm open to collaborating on React based projects
 
@@ -43,4 +43,7 @@ I am a front-end developer. I am learning and gaining experience in front-end pr
     <a href="https://t.me/ramin_kp81" target="_blank" rel="noreferrer"><img src="https://github.com/ramin-kp/ramin-kp/blob/main/icons8-telegram-96.png?raw=true" width="32" height="32" /></a>
     <a href="mailto:ramin.kp81@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/ramin-kp/ramin-kp/blob/main/icons8-gmail-96.png?raw=true" width="32" height="32" /></a>
 </p>
+<br />
+
+⭐️ From [ramin-kp ❤️](https://github.com/ramin-kp)
 

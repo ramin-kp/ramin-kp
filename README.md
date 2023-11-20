@@ -10,7 +10,6 @@ I am a front-end developer. I am learning and gaining experience in front-end pr
 
 ```javascript
 const [aboutMe, setAboutMe]= useState([{
-
     firstName: "Ramin",
     lastName:"Karimpour",
     city:"Tabriz",

@@ -34,7 +34,7 @@ const [aboutMe, setAboutMe]= useState([{
      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/ramin-kp/ramin-kp/blob/main/tailwind-css-icon.webp" width="36" height="36" alt="taliwind" /></a>
     <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
     <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ramin-kp/ramin-kp/ad2b0294348a8377144cb76bd4c9e0fb7df7631c/38c7daca-0491-4ffe-9e8c-b7b13fbe1c6e.png" width="36" height="36" alt="GrapgQl" /></a>
-    <a href="https://web.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/ramin-kp/ramin-kp/blob/main/TypeScript.svg" width="36" height="36" alt="PWA" /></a>
+    <a href="https://web.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/ramin-kp/ramin-kp/blob/main/pwa.png" width="36" height="36" alt="PWA" /></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/ramin-kp/ramin-kp/blob/main/figma.png?raw=true" width="36" height="36" alt="figma" /></a>
     <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>

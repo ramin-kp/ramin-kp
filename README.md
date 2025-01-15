@@ -15,7 +15,7 @@ const [aboutMe, setAboutMe]= useState([{
     city:"Tabriz",
     job:"Front-end Developer",
     Target: "Senior programmer",
-    Level: "Learning and progressing",
+    Level: "Develop your business",
 }])
 ```
 

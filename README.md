@@ -12,10 +12,10 @@ I am a front-end developer. I am learning and gaining experience in front-end pr
 const [aboutMe, setAboutMe]= useState([{
     firstName: "Ramin",
     lastName:"Karimpour",
-    city:"Tabriz",
+    city:"Tehran",
     job:"Front-end Developer",
-    Target: "Senior programmer",
-    Level: "Develop your business",
+    Target: "Full-Stack Senior programmer",
+    Level: "Full-time developer, working on my personal business after hours.",
 }])
 ```
 
